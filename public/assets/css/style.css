@@ -1,0 +1,139 @@
+main {
+    min-height: 100vh;
+    background-color: gainsboro;
+}
+/* section {
+    border: 2px solid red;
+}*/
+
+.sidebar {
+    width: 255px;
+    background-color: #363740;
+    /* align-items: center; */
+}
+
+.sidebar-dashboard-kit {
+    padding: 41px 43px;
+}
+
+.content {
+    color: #A4A6B3;
+    margin: 12px;
+}
+
+.sidebar-overview {
+    color: #DDE2FF;
+    padding : 18px 24px;
+    
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.2px;
+}
+
+.sidebar-tickets {
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.sidebar-ideas { 
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.sidebar-contacts { 
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.sidebar-agents { 
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.sidebar-articles { 
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.sidebar-settings { 
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.sidebar-subscriptions { 
+    color: #A4A6B3;
+    padding: 18px 24px;
+}
+
+.overview {
+    width: calc(100vw - 255px);
+    background-color: #F7F8FC;
+    padding: 36px 30px; 
+}
+
+.title {
+    color: #252733;
+    
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.3px;
+}
+
+.name {
+    color : #252733;
+    text-align: right;
+    /* Semibold 14 (0.2 px) */
+   
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 142.857% */
+    letter-spacing: 0.2px;
+}
+
+
+
+.cards {
+   
+    padding: 24px 32px;
+    text-align: center;
+    transition: all .5s;
+    height: 134px;
+}
+
+.card:hover {
+    color: #3751FF;
+    border: 1px solid #3751FF;
+}
+
+
+ .row {
+    margin: 10px;
+    border-top: #A4A6B3;
+}
+.flex-column {
+    border: #A4A6B3;
+}
+
+.col-sm-3 {
+    text-align: center;
+}
+
+h6 {
+    align-items: center;
+    margin: 0px 0px;
+}
+
+.vr { 
+    height: 32px;
+    margin-top: 7px; ;
+    
+}
+
+
+
+
