@@ -96,6 +96,7 @@ main {
     margin: 24px 0;
 }
 
+
 .card {
     display: flex;
     justify-content: center;
@@ -108,6 +109,8 @@ main {
     cursor: pointer;
     color: #3751FF;
     border: 1px solid #3751FF;
+    text-transform: #3751FF;
+    
 }
 
 .card-title {
@@ -120,6 +123,7 @@ main {
     text-align: center;
 }
 
+
 .card-text {
     color: #252733;
     font-family: Mulish;
@@ -129,6 +133,7 @@ main {
     letter-spacing: 1px;
     text-align: center;
 }
+
 
 .vr {
     margin: 0 25px;
@@ -202,6 +207,9 @@ main {
     border-radius: 10px;
     background-color: white;
     margin-top: 25px;
+}
+.ticket-task-container {
+    margin: 1px;
 }
 
 .list-height {
